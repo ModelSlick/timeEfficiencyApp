@@ -1,3 +1,5 @@
+TINYIKO THUBELIHLE NDLOVU
+ST10435344
 Mrs weather-bee
 
 Github link: ModelSlick/timeEfficiencyApp: A weather app that tell you the weather during the week and its avarage temperature (github.com)
